@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Donnacha Purcell
 - 👀 I’m interested in gaming, rugby
-- 🌱 I’m currently learning Software Desing in Cloud Computing in Technological University of the Shannon: Midlands Midwest, Athlone Campus
+- 🌱 Graduate of Technological University of the Shannon: Midlands Midwest, Athlone Campus
 - 📫 How to reach me
       Email: donnachapurcell20@gmail.com
 
